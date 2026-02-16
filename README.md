@@ -54,13 +54,20 @@ Serviço REST usado como base para integrações e funcionalidades do ecossistem
 ## Screenshots
 
 
-![Landing](screenshots/01-landing.png)
-![PDV - Visão geral](screenshots/02-pdv-dashboard.png)
-![PDV - Entrada](screenshots/03-pdv-entrada.png)
-![PDV - Saída / Tarifação](screenshots/04-pdv-saida-tarifacao.png)
-![PDV - Caixa](screenshots/05-pdv-caixa.png)
-![Relatórios](screenshots/06-relatorios.png)
-![API](screenshots/07-api-swagger.png)
+![Landing](screenshots/tela-login.jpg)
+![PDV - Abertura](screenshots/tela-aberturaCaixa.jpg)
+![PDV - Entrada](screenshots/tela-entrada.jpg)
+![PDV - Atalhos](screenshots/tela-Atalhos.jpg)
+![PDV - Consulta Patio](screenshots/tela-consultaPatio.jpg)
+![PDV - Convenio](screenshots/tela-Convenio.jpg)
+![PDV - Credenciados/Mensalistas](screenshots/tela-CredenciadoMensalista.jpg)
+![PDV - Menu Relatorios](screenshots/tela-menuRelatorios.jpg)
+![PDV - Permissoes](screenshots/tela-Permissoes.jpg)
+![PDV - Saída / Tarifação](screenshots/tela-saida.jpg)
+![PDV - Consulta Turno](screenshots/tela-turnosCaixa.jpg)
+![PDV - Fechamento Caixa](screenshots/tela-FechamentoCaixa.jpg)
+![Relatórios](screenshots/tela-menuRelatorios.jpg)
+![PDV - Sobre](screenshots/tela-Sobre.jpg)
 
 ---
 
