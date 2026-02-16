@@ -51,7 +51,7 @@ Serviço REST usado como base para integrações e funcionalidades do ecossistem
 
 ---
 
-## Screenshots (adicione imagens na pasta `screenshots/`)
+## Screenshots
 
 
 ![Landing](screenshots/01-landing.png)
