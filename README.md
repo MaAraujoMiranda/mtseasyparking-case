@@ -64,7 +64,7 @@ Serviço REST usado como base para integrações e funcionalidades do ecossistem
 
 ---
 
-## Como apresentar este case (sem expor código)
+## Observações
 - Este repositório é **apenas vitrine**: descrição + arquitetura de alto nível + screenshots.
 - Código e regras de negócio ficam em repositórios privados.
 - Posso apresentar uma **demo guiada** quando necessário.
