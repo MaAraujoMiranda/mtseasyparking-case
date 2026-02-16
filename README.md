@@ -53,16 +53,7 @@ Serviço REST usado como base para integrações e funcionalidades do ecossistem
 
 ## Screenshots (adicione imagens na pasta `screenshots/`)
 
-Sugestão de nomes (pra ficar organizado e bonito):
-- `screenshots/01-landing.png`
-- `screenshots/02-pdv-dashboard.png`
-- `screenshots/03-pdv-entrada.png`
-- `screenshots/04-pdv-saida-tarifacao.png`
-- `screenshots/05-pdv-caixa.png`
-- `screenshots/06-relatorios.png`
-- `screenshots/07-api-swagger.png` *(se tiver)*
 
-Exemplo (deixe as que você tiver):
 ![Landing](screenshots/01-landing.png)
 ![PDV - Visão geral](screenshots/02-pdv-dashboard.png)
 ![PDV - Entrada](screenshots/03-pdv-entrada.png)
