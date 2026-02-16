@@ -66,7 +66,7 @@ Serviço REST usado como base para integrações e funcionalidades do ecossistem
 ![PDV - Saída / Tarifação](screenshots/tela-saida.jpg)
 ![PDV - Consulta Turno](screenshots/tela-turnosCaixa.jpg)
 ![PDV - Fechamento Caixa](screenshots/tela-FechamentoCaixa.jpg)
-![Relatórios](screenshots/tela-menuRelatorios.jpg)
+![Relatórios](screenshots/tela-relatorioGeral.jpg)
 ![PDV - Sobre](screenshots/tela-Sobre.jpg)
 
 ---
